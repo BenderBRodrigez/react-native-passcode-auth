@@ -27,5 +27,6 @@
   "bugs": {
     "url": "https://github.com/naoufal/react-native-passcode-auth/issues"
   },
-  "homepage": "https://github.com/naoufal/react-native-passcode-auth"
+  "homepage": "https://github.com/naoufal/react-native-passcode-auth",
+  "types": "PasscodeAuth.d.ts"
 }
